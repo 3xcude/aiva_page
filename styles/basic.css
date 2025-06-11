@@ -35,5 +35,5 @@ h1, p {
     height: 1px;
     background: var(--color-main-black);
     border: none;
-    margin: 15pxS auto;
+    margin: 0 auto;
 }
